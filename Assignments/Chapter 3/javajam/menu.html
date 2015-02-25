@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<!--Joshua Hipple
+		CIS 216 - W1
+		
+		Chapter 2 Assignment
+		JavaJam
+		
+		menu.html
+	-->
+	<head>
+		<title>JavaJam Coffee House Menu</title>
+		<link rel="stylesheet" href="javajam.css">
+	</head>
+	<body>
+		<div id="wrapper">
+		<header>
+			<h1>JavaJam Coffee House
+		</header>
+		<nav>
+			<a href="index.html">Home</a>&nbsp <a href="menu.html">Menu</a>&nbsp <a href="music.html">Music</a>&nbsp <a href="jobs.html">Jobs</a>
+		</nav>
+		<main>
+			<dl>
+				<dt><strong>Just Java</strong></dt>
+					<dd>Regular house blend, decaffinated coffee, or flavor of the day.<br>
+					Endless Cup $2.00</dd>
+				<dt><strong>Cafe Au Lait</strong><dt>
+					<dd>House blended coffee infused into a smooth, steamed milk.<br>
+					Single $2.00 Double $3.00</dd>
+				<dt><strong>Iced Cappucino</strong></dt>
+					<dd>Sweetened espresso blended with icy-cold milk and served in chilled glass.<br>
+					Single $4.75 Double $5.75</strong></dt>
+			</dl>
+		</main>
+		<footer>
+			Copyright &copy 2014 JavaJam Coffee House<br>
+			<a href="mailto:joshua@hipple.com">joshua@hipple.com</a>			
+		</footer>
+		</div>
+	</body>
+</html>
